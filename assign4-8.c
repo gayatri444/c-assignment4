@@ -1,10 +1,10 @@
-//Write a program to find sum of 1 to 5 (sum of first 5 numbers)
-#include<stdio.h>
+//Write a program to find sum of 100 to 150
+   #include<stdio.h>
 int main()
 {
     int i,sum=0;
-    i=1;
-   while(i<=5)
+    i=100;
+   while(i<=150)
     {
         sum+=i;
         i++;
